@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![yongbyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongbyn&show_icons=true&theme=dracula)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yongbyn)](https://solved.ac/yongbyn)
